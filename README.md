@@ -8,15 +8,15 @@ The Data Source can be found below:
 [Retail Sales Dataset](https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset)
 
 The *fields* that can be found in the dataset include:
-**Transaction ID**: A unique identifier for each transaction. 
-**Date**: The date for each transaction.
-**Customer ID**: A unique identifier for each customer. 
-**Gender**: The gender of each customer (Male/Female). 
-**Age**: The age of each customer. 
-**Product Category**: Three categories are included in the dataset which include Electronics, Clothing and Beauty products.
-**Quantity**: The number of product items purchased during each transaction. 
-**Price per Unit**: The price of one item of the product. 
-**Total Amount**: The total sale revenue of each transaction. 
+* **Transaction ID**: A unique identifier for each transaction. 
+* **Date**: The date for each transaction.
+* **Customer ID**: A unique identifier for each customer. 
+* **Gender**: The gender of each customer (Male/Female). 
+* **Age**: The age of each customer. 
+* **Product Category**: Three categories are included in the dataset which include Electronics, Clothing and Beauty products.
+* **Quantity**: The number of product items purchased during each transaction. 
+* **Price per Unit**: The price of one item of the product. 
+* **Total Amount**: The total sale revenue of each transaction. 
 
 ## **Files in the Repository**
 * **Retail_Sales_Analysis.ipynb**: Jupyter Notebook containing the full analysis, including code, visualizations, and insights.
